@@ -1,1 +1,1 @@
-# vidly-mvc-5
+# BookMyMovies-mvc-5
